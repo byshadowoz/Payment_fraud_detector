@@ -8,4 +8,6 @@ dependencies:
   - matplotlib
   - seaborn
   - plotly
+  - nbformat
   - scikit-learn
+  - joblib
